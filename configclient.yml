@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8081
 message:
-  greeting: Hello from the configuration anupam hiii aaaaa ssssss bbbbbbbbbbbbb dddd!
+  greeting: Hello from the configuration anupam hiii aaaaa ssssss bbbbbbbbbbbbb dddd! anupam
