@@ -1,6 +1,6 @@
 configuration:  
   projectName: configclient
 server:
-  port: 8081
+  port: 8082
 message:
   greeting: Hello from the configuration anupam hiii aaaaa ssssss bbbbbbbbbbbbb dddd! anupam
